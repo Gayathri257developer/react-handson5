@@ -1,0 +1,22 @@
+input[type="search"]{
+    padding: 8px;
+    width: 20%;
+    margin: 20px;
+}
+label{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.lists{
+    background-color: rgb(177, 247, 224);
+    width: 26%;
+    /* margin-left: 20px; */
+    padding: 10px 20px;
+}
+h5:hover{
+    background-color: rgb(133, 231, 156);
+    padding: 10px;
+}
+.App{
+   margin: 20px;
+}
